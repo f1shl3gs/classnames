@@ -1,5 +1,7 @@
 {
   "name": "classnames",
+  "version": "0.1.0",
+  "sideEffects": false,
   "type": "module",
   "types": "dist/index.d.ts",
   "exports": {
