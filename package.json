@@ -1,12 +1,9 @@
 {
   "name": "classnames",
   "type": "module",
-  "types": "./dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.js"
-    }
+    ".": "./dist/index.js"
   },
   "packageManager": "yarn@4.17.1",
   "scripts": {
