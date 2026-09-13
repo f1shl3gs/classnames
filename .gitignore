@@ -1,4 +1,9 @@
+# IDE
+.idea
+
+# Yarn stuff
 .yarn/*
+yarn.lock
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
@@ -16,4 +21,3 @@ dist
 
 #!.yarn/cache
 .pnp.*
-yarn.lock
